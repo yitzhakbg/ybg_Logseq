@@ -1,1 +1,2 @@
 - [Field Autocomplete](https://ankiweb.net/shared/info/511710206)
+- [Closet for Anki](https://ankiweb.net/shared/info/272311064)
