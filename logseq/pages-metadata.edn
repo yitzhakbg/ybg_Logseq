@@ -10,6 +10,9 @@
  {:block/name "card",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
+ {:block/name "contents",
+  :block/created-at 1656867267051,
+  :block/updated-at 1656867267051}
  {:block/name "doing",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
@@ -22,21 +25,33 @@
  {:block/name "in-progress",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
+ {:block/name "jul 3rd, 2022",
+  :block/created-at 1656867216596,
+  :block/updated-at 1656867216596}
  {:block/name "jun 29th, 2022",
   :block/created-at 1656502172609,
   :block/updated-at 1656502172609}
+ {:block/name "jun 30th, 2022",
+  :block/created-at 1656867214369,
+  :block/updated-at 1656867214369}
  {:block/name "later",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
  {:block/name "now",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
+ {:block/name "online courses",
+  :block/created-at 1656867214358,
+  :block/updated-at 1656867214358}
  {:block/name "readme",
   :block/created-at 1656502273068,
   :block/updated-at 1656502273068}
  {:block/name "todo",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
+ {:block/name "useful anki addons",
+  :block/created-at 1656867215295,
+  :block/updated-at 1656867215295}
  {:block/name "wait",
   :block/created-at 1656498071837,
   :block/updated-at 1656498071837}
