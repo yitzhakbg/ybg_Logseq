@@ -4,5 +4,6 @@
 - [Seven Years of SRS in the Classroom](https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1)
 - [Why doesn't academia incorporate spaced repetition in higher education?](https://academia.stackexchange.com/questions/69100/why-doesnt-academia-incorporate-spaced-repetition-in-higher-education)
 - [Spaced repetition does not work in a classroom](https://supermemo.guru/wiki/Spaced_repetition_does_not_work_in_a_classroom)
+- [A Second Year of Spaced Repetition Software in the Classroom](https://www.lesswrong.com/posts/dtCfxYubZgRnEkGpQ/a-second-year-of-spaced-repetition-software-in-the-classroom)
 -
 - IMHO, the answer is to remove it from the classroom
