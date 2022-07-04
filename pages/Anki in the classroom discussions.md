@@ -1,3 +1,4 @@
 - [Why do modern-day lectures not come with corresponding Anki decks?](https://www.reddit.com/r/Anki/comments/nz2ard/if_ankispaced_repetition_is_the_evidencebased_way/)
 - [Why isn't spaced repetition used in modern education?](https://honda-tech.com/forums/general-discussion-debate-40/why-isnt-spaced-repetition-used-modern-education-2639940/)
 - [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
+-
